@@ -1,0 +1,8 @@
+a=str("sl")
+b=str(79)
+c=str(6.8)
+d=str("ram")
+print(a)
+print(b)
+print(c)
+print(d)
